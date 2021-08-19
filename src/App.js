@@ -165,7 +165,7 @@ const handleClose =() => {
                       Heading
                     </Typography>
                     <Typography>
-                      This is a media card. You can use this section to describe the content.
+                      This is a media card
                     </Typography>
                   </CardContent>
                   <CardActions>
@@ -192,7 +192,7 @@ const handleClose =() => {
         </Typography>
         <Copyright />
       </footer>
-      {/* End footer */}
+      
     </React.Fragment>
     
   );
